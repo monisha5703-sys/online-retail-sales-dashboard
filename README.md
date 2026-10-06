@@ -1,6 +1,6 @@
 # Online Retail Sales & Returns Dashboard
 
-## 📊 Project Overview
+##  Project Overview
 
 An end-to-end Business Analytics project using Power BI to analyse online retail sales, product performance, customer behaviour, and cancellation activity.
 
@@ -10,7 +10,7 @@ The objective was to transform raw transaction data into an interactive dashboar
 
 ---
 
-## 🎯 Business Questions
+##  Business Questions
 
 This project answers the following questions:
 
@@ -27,7 +27,7 @@ This project answers the following questions:
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Power BI
 - Power Query
@@ -38,7 +38,7 @@ This project answers the following questions:
 
 ---
 
-## 🔄 Data Preparation
+##  Data Preparation
 
 The raw UCI Online Retail II data was prepared in Power Query before analysis.
 
@@ -54,7 +54,7 @@ Key steps included:
 
 ---
 
-## 📈 Dashboard Pages
+##  Dashboard Pages
 
 ### 1. Executive Overview
 
@@ -99,7 +99,7 @@ Examines:
 
 ---
 
-## 💡 Key Dashboard Metrics
+##  Key Dashboard Metrics
 
 The completed dashboard shows approximately:
 
@@ -115,7 +115,7 @@ The completed dashboard shows approximately:
 
 ---
 
-## 🎯 Business Value
+##  Business Value
 
 The dashboard helps decision-makers:
 
@@ -129,7 +129,7 @@ The dashboard helps decision-makers:
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ### Executive Overview
 
@@ -149,7 +149,7 @@ The dashboard helps decision-makers:
 
 ---
 
-## 📁 Project Files
+##  Project Files
 
 - `Online_Retail_Sales_Returns_Dashboard.pbix` — Power BI dashboard
 - `executive_overview.png` — Executive dashboard screenshot
@@ -159,7 +159,7 @@ The dashboard helps decision-makers:
 
 ---
 
-## 📚 Dataset
+##  Dataset
 
 **UCI Online Retail II Dataset**
 
@@ -173,7 +173,7 @@ https://archive.ics.uci.edu/dataset/502/online%2Bretail
 
 ---
 
-## ⚠️ Limitations
+##  Limitations
 
 - The analysis is based on historical transaction data.
 - The dataset represents a specific online retailer and may not generalize to all retail businesses.
@@ -182,7 +182,7 @@ https://archive.ics.uci.edu/dataset/502/online%2Bretail
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Monisha Gowda**
 
