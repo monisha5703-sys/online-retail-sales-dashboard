@@ -179,6 +179,7 @@ https://archive.ics.uci.edu/dataset/502/online%2Bretail
 - The dataset represents a specific online retailer and may not generalize to all retail businesses.
 - Cancellation activity is analysed from transaction records and does not explain the underlying operational reason for each cancellation.
 - Customer IDs with missing values were excluded from customer-level analysis.
+- Cancellation measures use the full transaction table, including transactions without a Customer ID; sales and order measures use identified-customer transactions only.
 
 ---
 
